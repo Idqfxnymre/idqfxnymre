@@ -4,7 +4,7 @@
 
 ---
 
-Nuxt Starter is a minimal template designed for creating quick landing pages, built with Nuxt 3 and Tailwind CSS.
+Ryuzen Records is an independent record label, were defining the sounds of a new era. 
 
 **View demo:** [https://demo-nuxt-starter.netlify.app/](https://demo-nuxt-starter.netlify.app/)
 
