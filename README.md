@@ -1,6 +1,6 @@
 # RYUZEN RECORDS
 
-![Netlify + Nuxt Starter Preview](nuxt-starter-preview.jpg)
+![Netlify + RYUZEN RECORDS Preview](nuxt-starter-preview.jpg)
 
 ---
 
