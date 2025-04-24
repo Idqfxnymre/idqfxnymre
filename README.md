@@ -1,4 +1,4 @@
-# Nuxt Starter
+# RYUZEN RECORDS
 
 ![Netlify + Nuxt Starter Preview](nuxt-starter-preview.jpg)
 
